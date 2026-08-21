@@ -1,5 +1,3 @@
-### Gayashan Amarasinghe
-
 ```
 │                                     ╭─╮
 │                                    ╭╯ ╰─╮
